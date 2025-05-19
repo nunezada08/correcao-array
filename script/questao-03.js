@@ -38,4 +38,4 @@ for (let i = 0; i < notas.length; i++) {
 console.log(`A media de notas da turma foi: ${media}`)
 console.log(`Tiveram ${alunosAcimaDaMedia} alunos acima da media`)
 console.log(`A maior nota da turma foi ${maior}`)
-console.log(`A menor nota da turma foi ${menor}`)
+console.log(`A menor nota da turma foi ${menor}`) 
